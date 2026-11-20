@@ -8,7 +8,7 @@ Current Projects : Building innovative applications, refining my technical **ski
 Tech Stack & Interests
 Languages & Tools : Exploring modern programming languages, **frameworks**, and efficient **development** workflows.
 
-Mathematical Foundations : Applying logic, algorithm design, and structured thinking to tackle complex challenges.
+Mathematical Foundations : Applying **logic**, algorithm design, and structured thinking to tackle complex **challenges**.
 
 Connect & Explore
 Website : Discover more about my portfolio, projects, and journey at duco06.com.
