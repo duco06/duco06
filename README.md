@@ -1,4 +1,5 @@
 About Me
+
 Location : Based in **France**, working and exploring new digital horizons.
 
 Core Focus : Currently deepening my expertise in **mathematics**, bridging abstract concepts with practical software development.
