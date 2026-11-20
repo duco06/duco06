@@ -1,16 +1,16 @@
-## Hi there 👋
+About Me
+Location : Based in **France**, working and exploring new digital horizons.
 
-<!--
-**duco06/duco06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core Focus : Currently deepening my expertise in **mathematics**, bridging abstract concepts with practical software development.
 
-Here are some ideas to get you started:
+Current Projects : Building innovative applications, refining my technical **skills**, and continuously expanding my problem-solving **capabilities**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack & Interests
+Languages & Tools : Exploring modern programming languages, **frameworks**, and efficient **development** workflows.
+
+Mathematical Foundations : Applying logic, algorithm design, and structured thinking to tackle complex challenges.
+
+Connect & Explore
+Website : Discover more about my portfolio, projects, and journey at duco06.com.
+
+Email : Feel free to reach out directly at **duco.06160@gmail.com** for collaborations, questions, or networking.
